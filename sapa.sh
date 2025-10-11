@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-nama="skakiku"
+nama="anjing"
 age=67
 
 echo $nama $age
